@@ -25,8 +25,8 @@
 <p><a href="https://ko-fi.com/Vishnu Vardhan Reddy "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Vishnu Vardhan Reddy " /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuvardhanreddy0&show_icons=true&locale=en&layout=compact" alt="vishnuvardhanreddy0" /></p>
+<img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/2-27-2018/FJ5jsj.gif">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuvardhanreddy0&show_icons=true&locale=en" alt="vishnuvardhanreddy0" /></p>
-<img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/2-27-2018/FJ5jsj.gif">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuvardhanreddy0&" alt="vishnuvardhanreddy0" /></p>
