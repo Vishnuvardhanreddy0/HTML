@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuvardhanreddy0&show_icons=true&locale=en" alt="vishnuvardhanreddy0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuvardhanreddy0&" alt="vishnuvardhanreddy0" /></p>
+<rect xmlns="http://www.w3.org/2000/svg" data-testid="card_bg" id="cardBg" x="0" y="0" rx="0" height="100%" stroke="#E4E2E2" fill-opacity="1" width="100%" fill="#161e2d" stroke-opacity="1" style="stroke:#161e2d; stroke-width:1;"/>
